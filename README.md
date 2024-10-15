@@ -1,2 +1,3 @@
-# TabQR
-From current tab URL to a QR code
+# CLI 
+
+- `pnpm create vite-plugin-web-extension`
